@@ -1,4 +1,4 @@
-# node-todo-cicd
+# todo-ci-cd
 
 Run these commands:
 
